@@ -2,8 +2,6 @@
 Tema LFA 2020-2021 Interpretor Glypho
 Patru Diana-Georgiana, 332CA
 
-		        Readme tema LFA
-
     Implementarea temei am realizat-o in Python. Pentru a avea codul cat mai bine structurat, am realizat in main.py logica programului urmand ca in utils.py sa realizez cat o functie pentru fiecare operatie specifica instructiunii.
     Astfel:
     1) TRATAREA ERORILOR
